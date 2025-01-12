@@ -54,6 +54,8 @@ window.onload = () => {
     (n.className = "pop-detail"),
     (o.className = "dfx"),
     (o.style.width = "100%"),
+    (s.innerText = "Close"),
+    (r.innerText = "Continue"),
     o.append(s),
     o.append(r),
     t.append(a),
