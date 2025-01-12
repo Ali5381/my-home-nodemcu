@@ -59,6 +59,7 @@ window.onload = () => {
     o.append(s),
     o.append(r),
     t.append(a),
+    a.append(n),
     a.append(o),
     document.body.append(t);
 };
